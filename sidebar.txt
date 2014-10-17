@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wah:home|Door43 (wah)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wah|d43-wah repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wah/archive/master.zip|d43-wah.zip]]
+
+**Recent Changes**
+{{changes>ns = wah}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wah|Ethnologue data]]
+
